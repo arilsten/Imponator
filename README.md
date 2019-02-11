@@ -1,2 +1,2 @@
 # Imponator
-Binary
+- EEPROM data
